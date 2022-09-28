@@ -1,0 +1,23 @@
+* {
+    color: purple;
+  }
+  div {
+    color: white;
+  }
+  .alert-text {
+    color: orange;
+  }
+  #title {
+    background-color: brown;
+  }
+  .read {
+    color: white;
+    background-color: black;
+    /* several unique declarations */
+  }
+  
+  .unread {
+    color: white;
+    background-color: black;
+    /* several unique declarations */
+  }
