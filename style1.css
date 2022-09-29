@@ -1,0 +1,41 @@
+* {
+    color: purple;
+  }
+  div {
+    color: white;
+  }
+  .alert-text {
+    color: orange;
+  }
+  #title {
+    background-color: brown;
+  }
+  .read {
+    color: white;
+    background-color: black;
+    /* several unique declarations */
+  }
+  
+  .unread {
+    color: white;
+    background-color: black;
+    /* several unique declarations */
+  }
+  .alert-text {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+
+  }
+  p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+  } 
+    button {
+        background-color: orange;
+        font-size: 18px;
+    }
+    

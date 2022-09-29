@@ -1,41 +1,66 @@
-* {
+.text {
     color: purple;
   }
-  div {
-    color: white;
-  }
-  .alert-text {
-    color: orange;
-  }
-  #title {
-    background-color: brown;
-  }
-  .read {
-    color: white;
-    background-color: black;
-    /* several unique declarations */
-  }
-  
-  .unread {
-    color: white;
-    background-color: black;
-    /* several unique declarations */
-  }
-  .alert-text {
-    background-color: red;
-    color: white;
-    font-size: 32px;
-    text-align: center;
-    font-weight: bold;
 
+div {
+    color: blue;
   }
-  p {
-    background-color: green;
-    color: white;
-    font-size: 18px;
-  } 
-    button {
-        background-color: orange;
-        font-size: 18px;
-    }
-    
+
+h1 {
+    color: red;
+    text-align: center;
+  }
+
+.content {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 20px;
+    gap:20px;
+   }
+
+.item {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    align-items:center;
+    width:400px;
+    text-align: center;
+}
+
+.text {
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.alert-text {
+    color: red;
+}
+
+.watermelon {
+    margin: 2pt;
+    padding: 20%;
+    border: 20pt;
+    border-color: brown;
+    color: orange;
+    font-size: 22px;
+    font-style: italic;
+    text-align: center;
+}
+
+.div2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.div3 {
+    color: black;
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+img {
+    width: 225px;
+    height: 225px;
+}
