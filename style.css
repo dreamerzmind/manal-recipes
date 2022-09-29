@@ -40,8 +40,7 @@ h1 {
 .watermelon {
     margin: 2pt;
     padding: 20%;
-    border: 20pt;
-    border-color: brown;
+    border: 10px solid orange;
     color: orange;
     font-size: 22px;
     font-style: italic;
