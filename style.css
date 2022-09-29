@@ -63,7 +63,9 @@ h1 {
     padding: 32px;
     margin: 48px;
     display: block;
-    align-items: right;
+    width: 100px;
+    height: 100px;
+    float: right;
 }
 
 img {
