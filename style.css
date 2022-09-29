@@ -4,6 +4,8 @@
 
 div {
     color: blue;
+    padding: 32px;
+    margin: 12px;
   }
 
 h1 {
@@ -50,6 +52,7 @@ h1 {
 .div2 {
     color: blue;
     font-size: 36px;
+    margin: 48px;
 }
 
 .div3 {
@@ -57,6 +60,8 @@ h1 {
     background-color: greenyellow;
     font-size: 24px;
     font-weight: 700;
+    padding: 32px;
+    display:inline-block right;
 }
 
 img {
