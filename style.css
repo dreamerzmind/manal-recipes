@@ -61,7 +61,9 @@ h1 {
     font-size: 24px;
     font-weight: 700;
     padding: 32px;
-    margin-left: 48px;
+    margin: 48px;
+    display: block;
+    align-items: right;
 }
 
 img {
