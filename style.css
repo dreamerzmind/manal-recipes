@@ -47,6 +47,7 @@ h1 {
     font-size: 22px;
     font-style: italic;
     text-align: center;
+    float: right;
 }
 
 .div2 {
@@ -60,12 +61,6 @@ h1 {
     background-color: greenyellow;
     font-size: 24px;
     font-weight: 700;
-    padding: 32px;
-    margin: 48px;
-    display: block;
-    width: 100px;
-    height: 100px;
-    float: right;
 }
 
 img {
