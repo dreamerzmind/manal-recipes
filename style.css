@@ -11,8 +11,9 @@ div {
 
 .heading {
     font-size: 62px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    
   }
 
 .content {
