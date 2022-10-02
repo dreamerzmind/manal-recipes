@@ -38,9 +38,22 @@ div {
     transition: all ease;
     border-radius: 15px;
 }
+
 .text {
     color: brown;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipe-title{
+
+}
+
+.left {
+
+}
+
+.ingredient-container {
+
 }
 
 .alert-text {
@@ -107,3 +120,6 @@ img {
     flex: 1;
     padding : 4px;
 }
+
+
+
