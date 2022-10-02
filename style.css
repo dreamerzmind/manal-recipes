@@ -67,3 +67,19 @@ img {
     width: 225px;
     height: 225px;
 }
+
+.pumpkin {
+    background: lightgray;
+    padding: 16px;
+    border: 4px solid gray;
+    gap: 8px;
+    display: flex;
+}
+
+.item {
+    background: peachpuff;
+    border: 4x solid salmon;
+    height: 48px;
+    flex: 1;
+    padding : 4px;
+}
