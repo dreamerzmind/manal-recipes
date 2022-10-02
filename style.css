@@ -76,7 +76,7 @@ img {
     gap: 8px;
 }
 
-.menu {
+.menu-item1 {
     background: peachpuff;
     border: 4x solid salmon;
     height: 48px;
@@ -84,6 +84,18 @@ img {
     padding : 4px;
 }
 
-.menu-container {
+.menu-item2 {
+    background: peachpuff;
+    border: 4x solid salmon;
+    height: 48px;
     flex: 1;
+    padding : 4px;
+}
+
+.menu-item3 {
+    background: peachpuff;
+    border: 4x solid salmon;
+    height: 48px;
+    flex: 1;
+    padding : 4px;
 }
