@@ -68,16 +68,15 @@ img {
     height: 225px;
 }
 
-.pumpkin {
-    display: block;
+.menu-container {
+    display: flex;
     background: lightgray;
     padding: 16px;
     border: 4px solid gray;
     gap: 8px;
-    display: flex;
 }
 
-.spice {
+.menu {
     background: peachpuff;
     border: 4x solid salmon;
     height: 48px;
