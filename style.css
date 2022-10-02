@@ -84,3 +84,8 @@ img {
     flex: 1;
     padding : 4px;
 }
+
+.itemspice {
+    color: orange;
+    font-size: 12px;
+}
