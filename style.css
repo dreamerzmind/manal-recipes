@@ -9,6 +9,8 @@ div {
   }
 
 h1 {
+    font-size: 62px;
+    font-family: 'sans-serif;
     color: red;
     text-align: center;
   }
@@ -30,6 +32,11 @@ h1 {
     text-align: center;
 }
 
+.item img:hover{
+    transform: scale(1.05);
+    transition: all ease;
+    border-radius: 15px;
+}
 .text {
     color: brown;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
