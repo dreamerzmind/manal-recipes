@@ -3,15 +3,15 @@
   }
 
 div {
-    color: blue;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 32px;
     margin: 12px;
   }
 
 .heading {
     font-size: 62px;
-    font-family: 'Amatic SC', cursive;
-    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
     text-align: center;
   }
 
